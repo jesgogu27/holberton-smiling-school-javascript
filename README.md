@@ -10,3 +10,5 @@ You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap/Javascript k
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.
 
 Here the final result:
+
+<img src="https://github.com/jesgogu27/holberton-smiling-school-javascript/blob/master/images/3c71cc99d2fc1c12a3d3.jpg" />
