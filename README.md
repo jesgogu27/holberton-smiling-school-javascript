@@ -12,3 +12,13 @@ You won’t have a lot of instruction, you are free to implement it the way that
 Here the final result:
 
 <img src="https://github.com/jesgogu27/holberton-smiling-school-javascript/blob/master/images/3c71cc99d2fc1c12a3d3.jpg" />
+
+
+### Requirements
+
+
+- You have to use Bootstrap
+- Your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
+- You have to use JQuery
+- Your scripts.js must contain all your Javascript part
+- Your Javascript must be executed only when the document is loaded
